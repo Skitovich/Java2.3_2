@@ -6,8 +6,7 @@ public class Main {
         boolean registered = true;
         long expected = 30;
         long actual = service.calculate(amount, registered);
-       
-
+        
     }
 }
 
